@@ -23,6 +23,9 @@ curve_test <- function(points, assignment) {
   return(gradebook1)
 }
 
+# -------------------------------------------------------------------------
+
+
 #Get Assignment Column
 #NOTE: An Alternative to this is data$columnName
 get_column_vector <- function(variable) {
