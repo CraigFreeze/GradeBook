@@ -1,0 +1,7 @@
+Student,Year,On_Track_To_Graduate,ID,Class,Imaginary_ID,Test1,Test2,Quiz1,Writing1,Lab1
+Joe,Freshman,TRUE,1111,Biology,1+2i,55,100,49.5,20,5
+Jack,Sophmore,TRUE,2222,Biology,2+2i,87,89.5,43,35.5,25.5
+Brooklyn,Junior,TRUE,3333,Biology,3+2i,100,80,50,32,0
+Amber,Freshman,TRUE,1111,Biology,1+2i,55,100,49.5,20,5
+Amber,Freshman,TRUE,1111,Biology,1+2i,55,100,49.5,20,5
+Bob,Senior,FALSE,4444,Biology,4+2i,20,30,20,90,110
